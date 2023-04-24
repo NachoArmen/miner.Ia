@@ -10,7 +10,7 @@ public class Main {
         Deposito deposito1=new Deposito(1000.0,0.0,"01");
         Deposito deposito2=new Deposito(1000.0,0.0,"02");
 
-        //materiales
+        //materiales explotados
         Material oro = new Material("Oro", 100, 10000);
         Material hierro=new Material("Hierro",80.5,5000);
         Material cobre=new Material("Cobre",80.5,4000);
